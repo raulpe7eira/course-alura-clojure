@@ -1,32 +1,20 @@
 # course-alura-clojure
 
-FIXME: description
+Resultado do curso **[Clojure: introdução a programação funcional](https://cursos.alura.com.br/course/introducao-a-programacao-funcional-com-clojure)** da [Alura](https://alura.com.br).
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Install https://leiningen.org/
+Clone this project.
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar course-alura-clojure-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
+    $ lein uberjar
+    $ java -jar .\target\uberjar\course-alura-clojure-0.1.0-standalone.jar
 
 ## Examples
 
 ...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
 
 ## License
 
