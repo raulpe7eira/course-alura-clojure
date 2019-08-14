@@ -1,11 +1,11 @@
 # course-alura-clojure
 
-Resultado do curso **[Clojure: introdução a programação funcional](https://cursos.alura.com.br/course/introducao-a-programacao-funcional-com-clojure)** da [Alura](https://alura.com.br).
+Result of course **[Clojure: introdução a programação funcional](https://cursos.alura.com.br/course/introducao-a-programacao-funcional-com-clojure)** of [Alura](https://alura.com.br).
 
 ## Installation
 
-Install https://leiningen.org/
-Clone this project.
+1. Install https://leiningen.org/.
+2. Clone this project.
 
 ## Usage
 
@@ -14,7 +14,7 @@ Clone this project.
 
 ## Examples
 
-...
+![screenshot-cards](../../raw/master/gallow.png)
 
 ## License
 
