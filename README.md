@@ -14,7 +14,7 @@ Result of course **[Clojure: introdução a programação funcional](https://cur
 
 ## Examples
 
-![screenshot-cards](../../raw/master/gallow.png)
+![screenshot-gallow](../../raw/master/gallow.png)
 
 ## License
 
